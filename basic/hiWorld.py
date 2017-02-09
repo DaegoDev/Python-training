@@ -1,1 +1,4 @@
-print "hi world"
+x = "hi"
+y = "world"
+
+print x + y
